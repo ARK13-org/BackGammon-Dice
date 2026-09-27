@@ -10,7 +10,7 @@ When a double is rolled, the result is displayed as **four dice of the same valu
 * 🎯 Handles Backgammon doubles
 * 🔢 Displays four dice when doubles are rolled
 * 🖥️ Custom Unicode dice faces
-* 🧩 Simple and modular Python implementation
+* 🧩 Simple Python implementation
 
 ## 🛠️ Tech Stack
 
@@ -18,6 +18,13 @@ When a double is rolled, the result is displayed as **four dice of the same valu
 * **random**
 * **CLI / Terminal**
 * **Unicode text rendering**
+
+## 📸 Screenshots
+
+### Normal Roll
+
+![Backgammon Dice](normal-roll.png)
+
 
 ## 🚀 Getting Started
 
@@ -28,10 +35,6 @@ python backgammon_dice.py
 ```
 
 The program automatically generates two dice and displays the result.
-
-### Screen Shots
-
-
 
 ## 🧠 What I Explored
 
