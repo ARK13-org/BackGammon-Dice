@@ -23,7 +23,7 @@ When a double is rolled, the result is displayed as **four dice of the same valu
 
 ### Normal Roll
 
-![Backgammon Dice](normal-roll.png)
+![Backgammon Dice](BackGammon_dice.png)
 
 
 ## 🚀 Getting Started
