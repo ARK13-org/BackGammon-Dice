@@ -21,7 +21,6 @@ When a double is rolled, the result is displayed as **four dice of the same valu
 
 ## 📸 Screenshots
 
-### Normal Roll
 
 ![Backgammon Dice](BackGammon_dice.png)
 
